@@ -1,3 +1,26 @@
+## Excersise 1
+
+Pattern Generator
+Description
+The Pattern Generator program is a simple Java application that allows the user to generate different types of patterns based on their input. The program offers five different patterns, each with a customizable size. The user can choose the pattern they want and specify the number of rows for the pattern.
+
+Patterns Available
+Half Hollow Triangle (Pattern a):
+Hollow Triangle (Pattern b):
+Diamond (Pattern c):
+Reverse Diamond (Pattern d):
+Half Diamond (Pattern e):
+
+The program will prompt you to enter:
+A pattern choice (a, b, c, d, or e).
+The number of rows (count) for the pattern.
+
+
+The program will generate and display the corresponding pattern on the console.
+
+
+
+
 ## Excersise 2
 
 Pattern Generator
@@ -13,61 +36,15 @@ User-friendly input for pattern selection and size.
 Patterns Available
 
 Pattern A: Triangle
-
-#
-# #
-# # #
-
 Pattern B: Upside-Down Triangle
-
-###
-##
-#
-
 Pattern C: Upside-Down Right-Angled Triangle
-
-    #
-   ##
-  ###
-
 Pattern D: Stairway Triangle
-
-    #
-   ##
-  ###
-
 Pattern E: Box Outline
-
-#####
-#   #
-#####
-
 Pattern F: Z Pattern
-
-#####
-   #
-#####
-
-Pattern G: Reverse Z Pattern
-
-#####
-#
-#####
-
-Pattern H: X Pattern
-
-#   #
- # #
-  #
- # #
-#   #
-
+Pattern G: Reverse Z Patter
+Pattern H: X Patter
 Pattern I: X Pattern Box
 
-#####
-# # #
-#  ##
-#####
 
 Requirements
 
